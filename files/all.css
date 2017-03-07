@@ -9,7 +9,7 @@
 	position: relative;
 	width: 100%;
 	background: #fff;
-	background-image: url("../portf_files/demo-1-bg.jpg");
+	background-image: url("../files/demo-1-bg.jpg");
 	overflow: hidden;
 	background-size: cover;
 	background-position: center center;
@@ -42,3 +42,11 @@ header h2.title {
     color: #2274b2;
     transition: color .5s;
 }
+footer {
+	text-align: center;
+	display: block !important;
+	min-height: 222px;
+}
+footer p{
+	 margin: 32px 0 0;
+ }
