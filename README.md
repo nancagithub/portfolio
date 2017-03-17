@@ -1,7 +1,7 @@
-AngularJS Portfolio Project 2
+Portfolio Site to showcase AngularJS work
 ====================
 
 
 
-View the [live demo](https://nancagithub.github.io/hello-sushi/index.html#/list).
+View the [site](https://nancagithub.github.io/portfolio).
 
